@@ -21,9 +21,19 @@ Local Sponsor: A small business owner who wants to advertise to people in the ne
 
 ## 3. AI Review
 
-ChatGPT helped create eight interview questions for the property professional and local sponsor.
+I used ChatGPT to create eight interview questions. I then asked Gemini to review them for bias and privacy concerns.
 
-Gemini review: Pending. I will use Gemini to check whether the questions are neutral and respect people's privacy.
+Gemini said most questions were neutral but suggested some changes:
+
+- Question 2 assumed people had problems with their current process.
+- Question 5 assumed everyone checks information before publishing.
+- Question 7 asked people to suggest accessibility features instead of sharing their experiences.
+- Question 8 assumed the platform was difficult to use.
+
+Gemini recommended asking about real experiences, avoiding leading questions, and protecting private business information.
+
+I agree with these suggestions because they make the interview questions more neutral. I will use the improved questions during my interview.
+
 
 ## 4. Interview Invitation
 
