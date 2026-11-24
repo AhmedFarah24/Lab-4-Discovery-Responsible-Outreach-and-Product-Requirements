@@ -1,0 +1,204 @@
+# Lab 4 - Discovery and Product Requirements
+
+## 1. Stakeholder Groups
+
+Our neighborhood listing platform has two main stakeholders.
+
+Property Professional: A real estate agent or property manager who wants to post and update property listings.
+
+Local Sponsor: A small business owner who wants to advertise to people in the neighborhood. 
+
+
+## 2. Discovery Questions
+1. How do you currently manage your listings or advertisements?
+2. What challenges do you experience with your current process?
+3. Who is your target audience?
+4. What information is most important to display?
+5. How do you check information before publishing?
+6. How do you measure success?
+7. What accessibility features would help users?
+8. What would make this platform easier to use?
+
+## 3. AI Review
+
+ChatGPT helped create eight interview questions for the property professional and local sponsor.
+
+Gemini review: Pending. I will use Gemini to check whether the questions are neutral and respect people's privacy.
+
+## 4. Interview Invitation
+
+Hello, I am a college student working on a neighborhood listing platform for a class project. I would like to ask you a few questions about how you manage property listings or local business advertisements.
+
+The interview would take about 10–15 minutes. Participation is voluntary, and I will only use anonymous notes for my class assignment. You can skip any question.
+
+Thank you for considering it.
+
+Instructor approval is required before contacting real participants.
+
+## 5. Interview Notes
+
+Interview Type: Pending approved interview or simulation.
+
+Participant: Property professional or local sponsor.
+
+Interview Notes: To be completed after the interview.
+
+I will avoid collecting names, phone numbers, or sensitive personal information.
+
+## 6. AI Interview Themes
+
+After the interview, I will use Google AI Studio to organize the answers into common themes.
+
+Possible themes to check:
+- Easy property listing management
+- Accurate and updated information
+- Local business advertising
+- Accessibility and simple navigation
+
+These are possible themes, not confirmed interview findings.
+
+I will compare the AI summary with the original interview notes to make sure the information is accurate.
+
+Status: Pending interview and AI Studio review.
+
+## 7. User Personas
+
+### Persona 1: Property Professional
+
+Role: Real estate agent or property manager.
+
+Goal: Easily post and update property listings.
+
+Challenge: Keeping property information accurate and updated.
+
+Needs: A simple website where they can manage listings without difficulty.
+
+### Persona 2: Local Sponsor
+
+Role: Small business owner.
+
+Goal: Promote their business to people in the neighborhood.
+
+Challenge: Reaching local customers.
+
+Needs: An easy way to submit advertisements and get them approved.
+
+These personas are working assumptions based on the project requirements. They will be updated after the interview.
+
+## 8. User Stories
+
+1. As a property professional, I want to add property listings so that people can find available homes.
+
+2. As a property professional, I want to edit listings so that property information stays updated.
+
+3. As a visitor, I want to search by location so that I can find homes near me.
+
+4. As a visitor, I want to filter by price so that I can find homes within my budget.
+
+5. As a local sponsor, I want to post advertisements so that nearby customers can learn about my business.
+
+6. As an administrator, I want to approve property listings so that incorrect information is not published.
+
+7. As an administrator, I want to review sponsor advertisements so that the information is accurate.
+
+8. As a visitor, I want a website that is easy to navigate so that I can find information without difficulty.
+
+## 9. Acceptance Criteria
+
+### Story 1: Add Property Listings
+Priority: High | Size: Medium
+
+Given a property professional opens the listing form,
+When they enter valid property information and submit it,
+Then the listing is saved for approval.
+
+### Story 3: Search Properties
+Priority: High | Size: Medium
+
+Given approved listings are available,
+When a visitor searches by location,
+Then matching properties are displayed.
+
+### Story 6: Approve Listings
+Priority: High | Size: Medium
+
+Given a property listing is waiting for approval,
+When an administrator reviews and approves it,
+Then the listing becomes visible to visitors.
+
+### Story 7: Review Sponsor Advertisements
+Priority: High | Size: Medium
+
+Given a sponsor submits an advertisement,
+When an administrator verifies and approves the content,
+Then the advertisement can be published.
+
+## 10. GitHub Project Board
+
+Our team will use a GitHub Project board to organize and track our work.
+
+The board will have five statuses:
+
+1. Backlog - Tasks we have not started.
+2. Ready - Tasks that are ready to begin.
+3. In Progress - Tasks we are currently working on.
+4. Review - Tasks that need to be checked.
+5. Done - Tasks that are completed.
+
+We will add our eight user stories to the board and update their statuses as we work.
+
+Board setup status: Pending.
+
+## 11. Task Estimates and Week 8 MVP
+
+Our team will estimate work using Small, Medium, and Large.
+
+Small Tasks:
+- Create property cards.
+- Add accessible navigation.
+
+Medium Tasks:
+- Create a property search feature.
+- Create a listing submission form.
+- Add an administrator approval process.
+
+Large Tasks:
+- Build advanced search filters.
+- Create sponsor advertisement analytics.
+
+### Week 8 Minimum Viable Product (MVP)
+
+For Week 8, our team will focus on:
+1. Displaying approved property listings.
+2. Allowing visitors to search properties by location.
+3. Providing accessible website navigation.
+4. Allowing administrators to approve listings.
+
+Advanced analytics and additional features will be saved for later.
+
+## 12. Content Approval Workflow
+
+Our platform needs an approval process to make sure property listings and local business advertisements are accurate and trustworthy.
+
+1. A property professional or local sponsor submits their content.
+2. The content is marked as Pending.
+3. An administrator reviews the information, images, and permissions.
+4. The administrator checks that property details and sponsor claims are accurate.
+5. The administrator approves or rejects the content.
+6. Only approved listings and advertisements appear on the website.
+7. If information changes, the content must be reviewed again.
+
+This process helps protect visitors from incorrect information and keeps the platform trustworthy.
+
+## 13. Team Planning
+
+Our team will work together to finish Lab 4.
+
+We will review the interview questions, user personas,
+user stories, and Week 8 MVP.
+
+We will use GitHub Projects to organize our tasks
+and track our progress.
+
+We will also create a team planning issue to discuss
+responsibilities and next steps.
